@@ -1,0 +1,5 @@
+@media (max-width: 676px){
+    #header #barra_pesquisa {
+        display: none;
+    }
+}
