@@ -1,0 +1,31 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+#conteudo {
+    gap: 20px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.catalogItem {
+    padding: 20px;
+    border-radius: 15px;
+    background-color: aqua;
+}
+
+.catalogItem p,
+.catalogItem img {
+    margin-bottom: 5px;
+}
+
+.catalogButtons {
+    display: flex;
+    gap: 20px;
+}
+
+.catalogButtons button {
+    padding: 5px;
+    border-radius: 15px;
+}
